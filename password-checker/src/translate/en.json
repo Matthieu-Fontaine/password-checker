@@ -6,5 +6,7 @@
   "characterespeciaux": "special characters",
   "tapermotdepasse": "Enter your password",
   "francais": "French",
-  "anglais": "English"
+  "anglais": "English",
+  "clair": "Light",
+  "sombre": "Dark"
 }

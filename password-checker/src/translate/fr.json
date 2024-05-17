@@ -8,5 +8,15 @@
   "francais": "Français",
   "anglais": "Anglais",
   "clair": "clair",
-  "sombre": "sombre"
+  "sombre": "sombre",
+  "tempestimercrack": "Temps estimé pour cracker",
+  "instantane": "instantané",
+  "secondes": "secondes",
+  "minutes": "minutes",
+  "heures": "heures",
+  "jours": "jours",
+  "mois": "mois",
+  "annees": "années",
+  "siecles": "siècles",
+  "millenaires": "millénaires"
 }

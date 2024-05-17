@@ -8,5 +8,16 @@
   "francais": "French",
   "anglais": "English",
   "clair": "Light",
-  "sombre": "Dark"
+  "sombre": "Dark",
+  "tempestimercrack": "Password strength",
+  "instantane": "instant",
+  "secondes": "seconds",
+  "minutes": "minutes",
+  "heures": "hours",
+  "jours": "days",
+  "mois": "months",
+  "annees": "years",
+  "siecle": "century",
+  "millenaire": "millennium"
+
 }

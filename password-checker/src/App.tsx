@@ -95,6 +95,7 @@ export default function App() {
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setPassword(e.target.value);
+    if(e.target.value === "") return setCrackTimeEstimation('^^');
     setCrackTimeEstimation(crackTime(password));
   }
 
